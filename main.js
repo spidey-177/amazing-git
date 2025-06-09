@@ -12,3 +12,6 @@ console.log(a+"estoy en otra rama login!!");
 // a lado de la direccion del archivo deberia aparecer (login)
 
 // para ver las ramas? git branch
+
+// las ramas aun no estaban en el github , en las izquierda superior solo sale la rama master entonces.. debemos darle la 
+// direccion de nuevooo
