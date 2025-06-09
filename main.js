@@ -1,9 +1,14 @@
 const a = "hola";
 
-console.log(a+"aaaaaaaaa");
+console.log(a+"estoy en otra rama login!!");
 
 // para subir haces un commit con el nombre 
 // enlazas $ git remote add origin https://github.com/spidey-177/amazing-git.git
 // y luego $ git push -u origin master
 
 // git pull para actualizar a la version mas reciente
+
+// como crear ramas? pues git checkout -b login , esto ultimo es ejemploo 
+// a lado de la direccion del archivo deberia aparecer (login)
+
+// para ver las ramas? git branch
