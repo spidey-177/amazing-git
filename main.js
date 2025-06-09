@@ -1,6 +1,6 @@
 const a = "hola";
 
-console.log(a);
+console.log(a+"aaaaaaaaa");
 
 // para subir haces un commit con el nombre 
 // enlazas $ git remote add origin https://github.com/spidey-177/amazing-git.git
