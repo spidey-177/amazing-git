@@ -18,3 +18,5 @@ console.log(a+"estoy en otra rama login!!");
 
 // una vez ya actualizada la rama con su direccion github no es necesario ponerlo de nuevoo
 // como moverse a la rama master de nuevo? git checkout master
+
+// como fusionamos ramas? pues con git merge login  , esto ultimo repito que es porq mi rama de aqui se llama asi
